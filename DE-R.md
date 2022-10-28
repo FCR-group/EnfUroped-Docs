@@ -2,4 +2,4 @@
 
 ## Versão: 1.0
 
-> ![DE-R](./assets/der.jpg)
+> ![DE-R](./assets/der.png)

@@ -1,14 +1,14 @@
 # Resumo
 
-    A plataforma EnfUroped é um sistema de gestão de dados de pacientes com doenças urológicas, que permite a realização de consultas e o acompanhamento de pacientes, além de permitir que estudantes de enfermagem possam realizar estudos e pesquisas sobre doenças urológicas.
+A plataforma EnfUroped é um sistema de gestão de dados de pacientes com doenças urológicas, que permite a realização de consultas e o acompanhamento de pacientes, além de permitir que estudantes de enfermagem possam realizar estudos e pesquisas sobre doenças urológicas.
 
-    Quando alguém desejar ter uma consulta utilizando a plataforma, o responsável pelo paciente deve se cadastrar usando o site, depois de se cadastrar e logar, ele poderá cadastrar um paciente em que é resposável e agendar uma consulta de forma simples. Durante esse processo de primeira consulta, a plataforma deve escolher um enfermeiro para esse paciente de forma automática de acordo com as disponibilidades de todos os enfermeiros. O médico escolhido para atender essa nova consulta deve ser notificado e deverá aceitar essa consulta ou recusa-la em um período de 72hrs.
+Quando alguém desejar ter uma consulta utilizando a plataforma, o responsável pelo paciente deve se cadastrar usando o site, depois de se cadastrar e logar, ele poderá cadastrar um paciente em que é resposável e agendar uma consulta de forma simples. Durante esse processo de primeira consulta, a plataforma deve escolher um enfermeiro para esse paciente de forma automática de acordo com as disponibilidades de todos os enfermeiros. O médico escolhido para atender essa nova consulta deve ser notificado e deverá aceitar essa consulta ou recusa-la em um período de 72hrs.
 
-    Caso o enfermeiro aceite a consulta, o paciente será considerado como um paciente com acompanhamento e todas as próximas consultas serão agendadas pelo enfermeiro responsável. Caso o enfermeiro recuse a consulta, o sistema atribuirá o paciente a algum administrador que deverá discutir com o paciente alguma forma de realocar a consulta para algum enfermeiro disponível.
+Caso o enfermeiro aceite a consulta, o paciente será considerado como um paciente com acompanhamento e todas as próximas consultas serão agendadas pelo enfermeiro responsável. Caso o enfermeiro recuse a consulta, o sistema atribuirá o paciente a algum administrador que deverá discutir com o paciente alguma forma de realocar a consulta para algum enfermeiro disponível.
 
-    O responsável pelo paciente poderá preencher alguns instrumentos relacionados a sua consulta antes dela acontecer, como por exemplo, o diário de eliminações que deve ser preenchido por dois dias seguidos. O enfermeiro e o paciente podem conversar entre si usando o chat da plataforma, e poder enviar documentos, como por exemplo, um relatório de uma consulta anterior.
+O responsável pelo paciente poderá preencher alguns instrumentos relacionados a sua consulta antes dela acontecer, como por exemplo, o diário de eliminações que deve ser preenchido por dois dias seguidos. O enfermeiro e o paciente podem conversar entre si usando o chat da plataforma, e poder enviar documentos, como por exemplo, um relatório de uma consulta anterior.
 
-    Os estudantes cadastrados na plataforma poderão escrever artigos para o blog, esses artigos podem ser sobre doenças urológicas, ou sobre qualquer outro assunto relacionado a saúde. Os artigos podem ser publicados por qualquer estudante, mas sempre deverão ser revisados.
+Os estudantes cadastrados na plataforma poderão escrever artigos para o blog, esses artigos podem ser sobre doenças urológicas, ou sobre qualquer outro assunto relacionado a saúde. Os artigos podem ser publicados por qualquer estudante, mas sempre deverão ser revisados.
 
 # Público alvo
 
